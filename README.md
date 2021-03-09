@@ -1,2 +1,0 @@
-# ghost-bakeoff
-Ghost CMS
